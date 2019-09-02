@@ -1,6 +1,17 @@
-title: Carolina Mattsson
-logo: /assets/img/carolina-mattsson.jpeg
-description: PhD Candidate studying network scince and complexity economics.
-show_downloads: false
-google_analytics:
+title: "Carolina Mattsson"
+image: /assets/img/carolina-website.jpg
+description: "PhD Candidate, Network Science"
 theme: jekyll-theme-minimal
+pagelist:
+  -
+    title: Research
+    url: pages/research.html
+  -
+    title: Teaching
+    url: pages/teaching.html
+  -
+    title: Service
+    url: pages/service.html
+email: "mailto:mattsson.c@northeastern.edu"
+paper: /pages/jobmarketpaper.html
+cv: /assets/files/Mattsson_CV.pdf
