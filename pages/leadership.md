@@ -1,9 +1,9 @@
 ---
-title: Service
+title: Leadership
 layout: default
 ---
 
-# Service
+# Leadership
 
 There is a budding research community at the intersection between network science and complexity economics. I believe there is tremendous scientific promise in this space, and that we can accelerate the growth of this community by inviting others to join in the fun.
 

@@ -7,11 +7,11 @@ pagelist:
     title: Research
     url: pages/research.html
   -
+    title: Leadership
+    url: pages/leadership.html
+  -
     title: Teaching
     url: pages/teaching.html
-  -
-    title: Service
-    url: pages/service.html
 email: "mailto:mattsson.c@northeastern.edu"
 paper: /pages/jobmarketpaper.html
 cv: /assets/files/Mattsson_CV.pdf
