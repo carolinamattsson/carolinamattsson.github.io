@@ -8,7 +8,7 @@ layout: default
 This course teaches hands-on programming skills using using applied examples drawn from the social sciences. Students also read and discuss how data science is impacting society, developing an intuition for computational social science. Enrollment targets students with little or no programming experience.
 
 Meetings: Wednesdays, 9:50am - 11:30am, West Village H 212  
-Office Hours: Tuesdays, 9:30am – 11:30am, West Village H 164
+Office Hours: Tuesdays, 9:30am – 11:30am, West Village H 164  
 Course website: [https://course.ccs.neu.edu/ds2000/index.html](https://course.ccs.neu.edu/ds2000/index.html)  
 Practicum website: [https://carolinamattsson.github.io/ds2001](https://carolinamattsson.github.io/ds2001)  
 
