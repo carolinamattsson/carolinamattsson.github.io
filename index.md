@@ -18,5 +18,5 @@ Lehigh University
 
 ### Materials
 
-[Download Job Market Paper (pdf)](/pages/jobmarketpaper.html)  
+[Download Job Market Paper (pdf)](/assets/files/Mattsson_JMP.pdf)  
 [Download CV (pdf)](/assets/files/Mattsson_CV.pdf)

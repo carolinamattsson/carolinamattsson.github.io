@@ -14,5 +14,5 @@ Alongside its promise for basic research in economics, transaction data from pay
 I have contributed to several research projects in the Lazer Lab that advance methods in computational social science. These projects aim to make digital trace and administrative data more useful to researchers.
 
 ### Materials
-[Download Job Market Paper (pdf)](/pages/jobmarketpaper.html)  
+[Download Job Market Paper (pdf)](/assets/files/Mattsson_JMP.pdf)  
 [Download CV (pdf)](/assets/files/Mattsson_CV.pdf)

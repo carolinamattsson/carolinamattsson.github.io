@@ -9,8 +9,7 @@ This course teaches hands-on programming skills using using applied examples dra
 
 Meetings: Wednesdays, 9:50am - 11:30am, West Village H 212  
 Office Hours: Tuesdays, 9:30am – 11:30am, West Village H 164  
-Course website: [https://course.ccs.neu.edu/ds2000/index.html](https://course.ccs.neu.edu/ds2000/index.html)  
-Practicum website: [https://carolinamattsson.github.io/ds2001](https://carolinamattsson.github.io/ds2001)  
+Course website: [https://carolinamattsson.github.io/ds2001](https://carolinamattsson.github.io/ds2001)  
 
 [Download Syllabus (pdf)](/assets/files/Mattsson_DS2001.pdf)
 
@@ -18,4 +17,4 @@ Practicum website: [https://carolinamattsson.github.io/ds2001](https://carolinam
 This nine-week seminar series ran from May to July 2019. Reading list and recordings are available via the [Young Scholar Directory](https://ysd.ineteconomics.org/project/5cc3ca73a64d3e4a7057284c).
 
 ### Network Science PhD Bootcamp
-Every year since 2017, the Network Science Graduate Student Association runs an intensive one-week bootcamp for incoming PhD students.  
+Every year since 2017, the Network Science Graduate Student Association runs an intensive one-week bootcamp for incoming PhD students.
