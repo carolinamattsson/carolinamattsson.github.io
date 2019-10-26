@@ -5,7 +5,7 @@ layout: default
 # Teaching
 
 ### DS2001 | Programming with Data | Social Science Practicum
-This course teaches hands-on programming skills using applied examples drawn from the social sciences. Students also read and discuss how data science is impacting society, developing an intuition for computational social science. Enrollment targets students with little or no programming experience.
+This undergraduate course teaches hands-on programming skills using applied examples drawn from the social sciences. Students also read and discuss how data science is impacting society, developing an intuition for computational social science. Enrollment targets students with little or no programming experience. The majority of those enrolled are economics majors.
 
 Meetings: Wednesdays, 9:50am - 11:30am, West Village H 212  
 Office Hours: Tuesdays, 9:30am – 11:30am, West Village H 164  
