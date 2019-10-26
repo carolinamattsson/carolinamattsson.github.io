@@ -20,3 +20,5 @@ Lehigh University
 
 [Download Job Market Paper (pdf)](/assets/files/Mattsson_JMP.pdf)  
 [Download CV (pdf)](/assets/files/Mattsson_CV.pdf)
+
+*I am on the Economics job market and will be attending the 2020 ASSA meeting in San Diego.*
