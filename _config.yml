@@ -1,6 +1,6 @@
 title: "Carolina Mattsson"
 image: /assets/img/carolina-website.jpg
-description: "PhD Candidate, Network Science"
+description: "Postdoctoral Reseacher, Network Science"
 theme: jekyll-theme-minimal
 pagelist:
   -
@@ -12,6 +12,6 @@ pagelist:
   -
     title: Teaching
     url: pages/teaching.html
-email: "mailto:mattsson.c@northeastern.edu"
+email: "mailto:c.mattsson@liacs.leidenuniv.nl"
 paper: /assets/files/Mattsson_JMP.pdf
 cv: /assets/files/Mattsson_CV.pdf
