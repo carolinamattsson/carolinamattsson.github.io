@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Research
-As people and companies go about their business, they are leaving a treasure trove of data about the real economy--—down at its most basic unit—--on the servers of payment processing institutions worldwide. We can make sense of this data through the lens of monetary flows. My research has made such flows amenable to empirical research down to the level of granularity at which persons and corporations actually transact. Individual economic actions come together to create network structure in the economy at larger scales. How, exactly, this happens is a compelling question worthy of both empirical and theoretical study.
+As people and companies go about their business, they are leaving a treasure trove of data about the real economy--down at its most basic unit—-on the servers of payment processing institutions worldwide. We can make sense of this data through the lens of monetary flows. Individual transactions come together to create network structure in the flow of money through the economy as a whole. How, exactly, this happens is a compelling question worthy of both empirical and theoretical study.
 
 ### [Computational Network Science Lab](https://www.computationalnetworkscience.org/)
 
