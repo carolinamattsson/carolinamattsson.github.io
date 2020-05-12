@@ -5,11 +5,11 @@ layout: default
 
 # Hello!
 
-I am Network Scientist developing the knowledge we need to understand economies as complex systems. Currently a Postdoc with the Computational Network Science Lab within LIACS at Leiden University, where I study real-world production networks, financial transaction networks, and supply chains. One day I'll be able to tell you where, exactly, your money goes. 
+I am Network Scientist developing the network analysis tools and modeling frameworks we need to study the economy as a complex system. Currently a Postdoc with the Computational Network Science group within LIACS at Leiden University, where I study real-world production networks, financial transaction networks, and temporal network representations. Before this, I have been a member of the Lazer Lab advancing methods in computational social science and an NSF INTERN with Microfinance Opportunities incorporating network science into financial diaries methodologies.
 
-In May, 2020 I became one of the first to graduate from the innovative PhD program out of the Network Science Institute at Northeastern University. My dissertation delves into the most minute details of mobile money payment systems and builds up a broadly applicable way to analyze large-scale transaction data. It turns out that the movement of money can be a *fascinating* perspective to take on Economics.     
+In May, 2020 I became one of the first to graduate from the innovative Network Science PhD program out of the Network Science Institute at Northeastern University. My dissertation introduces a network analysis approach for large-scale transaction data and maps the movement of e-money through mobile money payment systems. It turns out that "following the money" through networks can be a *fascinating* perspective to take on Economics.
 
-*I expect to return to the Economics job market in 2022 -- need some Data Science in your department?*
+*I expect to return to the Economics job market in 2022 -- need some Network/Data/Computational Social Science in your department?*
 
 ### Education
 
