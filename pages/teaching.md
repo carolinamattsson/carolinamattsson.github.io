@@ -4,8 +4,13 @@ layout: default
 ---
 # Teaching
 
+### LISS238 | Social Network Analysis | London Interdisciplinary Social Science Doctoral Training Partnership
+
+This short, intensive course teaches the core concepts of social network analysis. Teaching includes lectures and hands-on tutorials in Gephi.
+
+
 ### DS2001 | Programming with Data | Social Science Practicum
-This undergraduate course teaches hands-on programming skills using applied examples drawn from the social sciences. Students also read and discuss how data science is impacting society, developing an intuition for computational social science. Enrollment targets students with little or no programming experience. The majority of those enrolled are economics majors.
+This undergraduate course teaches hands-on programming skills using applied examples drawn from the social sciences. Students also read and discuss how data science is impacting society, developing an intuition for computational social science. Enrolment targets students with little or no programming experience. The majority of those enrolled are economics majors.
 
 Meetings: Wednesdays, 9:50am - 11:30am, West Village H 212  
 Office Hours: Tuesdays, 9:30am – 11:30am, West Village H 164  
