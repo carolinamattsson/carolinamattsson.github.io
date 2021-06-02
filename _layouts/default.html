@@ -32,18 +32,18 @@
         <p class="view"><h3><a href={{ page.url | relative_url}}>{{ page.title }}</a></h3></p>
         {% endfor %}
 
-        <p class="view">
-          <a href="{{site.email | relative_url}}">Contact</a>
-          |
-          <a href="{{site.cv | relative_url}}">CV</a>
-        </p>
-
 
         <ul class="downloads">
           <li><a href="https://twitter.com/CarolinaMttssn">Follow <strong>Twitter</strong></a></li>
           <li><a href="https://scholar.google.com/citations?user=XkoMfusAAAAJ&hl">Cite <strong>Scholar</strong></a></li>
           <li><a href="{{ site.github.owner_url }}">Fork <strong>GitHub</strong></a></li>
         </ul>
+
+        <p class="view">
+          <a href="{{site.email | relative_url}}">Contact</a>
+          |
+          <a href="{{site.cv | relative_url}}">Download CV (pdf)</a>
+        </p>
 
       </header>
       <section>
