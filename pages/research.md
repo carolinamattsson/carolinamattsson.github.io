@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Research
-As people and companies go about their business, they are leaving a treasure trove of data about the real economy---down at its most basic unit—-on the servers of payment processing institutions worldwide. How individual transactions come together to create the economy as a whole is a compelling question worthy of both empirical and theoretical study.
+As people and companies go about their business, they are leaving a treasure trove of data about the real economy---down at its most basic unit—on the servers of payment processing institutions worldwide. How individual transactions come together to create the economy as a whole is a compelling question worthy of both empirical and theoretical study.
 
 ### Publications
 
@@ -23,7 +23,7 @@ The Leiden Computational Network Science Lab (CNS Lab) is a research group worki
 
 ### [Lazer Lab](https://lazerlab.net/)
 
-I have contributed to several research projects in the Lazer Lab that advance methods in computational social science. These projects aim to make digital trace and administrative data more useful to researchers.
+The Lazer Lab advances methods in computational social science. I have contributed to several projects that aim to make digital trace and administrative data more useful to researchers.
 
 ### Consulting
 Aspects of my research are explicitly policy- or industry- facing. I have participated in projects with the Dutch Ministry of Economics and Climate, Statistics Netherlands, International Monetary Fund, Microfinance Opportunities, and Telenor Research. The transformation for transaction data developed during my PhD is patent-pending.
