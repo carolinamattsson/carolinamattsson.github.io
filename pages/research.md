@@ -8,10 +8,10 @@ As people and companies go about their business, they are leaving a treasure tro
 
 ### Publications
 
-Mattsson, C. E. S., & Takes, F. W. (2021). Trajectories through temporal networks. Applied Network Science, 6(1), 1–31. [https://doi.org/10.1007/s41109-021-00374-7](https://doi.org/10.1007/s41109-021-00374-7) [Download (pdf)](/assets/files/Mattsson and Takes - 2021 - Trajectories through temporal networks.pdf)
+Mattsson, C. E. S., & Takes, F. W. (2021). Trajectories through temporal networks. Applied Network Science, 6(1), 1–31. [https://doi.org/10.1007/s41109-021-00374-7](https://doi.org/10.1007/s41109-021-00374-7) **Download:** [Paper (pdf)](/assets/files/Mattsson and Takes - 2021 - Trajectories through temporal networks.pdf)
 
 
-Mattsson, C. E. S., Takes, F. W., Heemskerk, E. M., Diks, C., Buiten, G., Faber, A., & Sloot, P. M. A. (2021). Functional Structure in Production Networks. Frontiers in Big Data, 4. [https://doi.org/10.3389/fdata.2021.666712](https://doi.org/10.3389/fdata.2021.666712) [Download (pdf)](/assets/files/Mattsson et al. - 2021 - Functional Structure in Production Networks.pdf)
+Mattsson, C. E. S., Takes, F. W., Heemskerk, E. M., Diks, C., Buiten, G., Faber, A., & Sloot, P. M. A. (2021). Functional Structure in Production Networks. Frontiers in Big Data, 4. [https://doi.org/10.3389/fdata.2021.666712](https://doi.org/10.3389/fdata.2021.666712) **Download:** [Paper (pdf)](/assets/files/Mattsson et al. - 2021 - Functional Structure in Production Networks.pdf) [Slides (pdf)](/assets/files/Mattsson_Networks2021_slides.pdf) [Networks 2021 Winning Pitch Talk (mov)](/assets/files/Mattsson_Networks2021_pitch.mov)
 
 ### Preprints
 
@@ -19,7 +19,7 @@ Mattsson, C. (2019). Networks of monetary flow at native resolution. ArXiv:1910.
 
 ### [Computational Network Science Lab](https://www.computationalnetworkscience.org/)
 
-The Leiden Computational Network Science Lab (CNS Lab) is a research group working on methods for knowledge discovery from real-world network data. We develop methods and algorithms to unveil patterns in dynamic complex networks from a range of application domains, including (online) soclal networks, scientific collaboration networks and economic networks. The CNS Lab is lead by Frank Takes and affiliated with the Theory and Data Science clusters of the Department of Computer Science (LIACS) of Leiden University.
+The Leiden Computational Network Science Lab (CNS Lab) is a research group working on methods for knowledge discovery from real-world network data. We develop methods and algorithms to unveil patterns in dynamic complex networks from a range of application domains, including (online) social networks, scientific collaboration networks and economic networks. The CNS Lab is lead by Frank Takes and affiliated with the Theory and Data Science clusters of the Department of Computer Science (LIACS) of Leiden University.
 
 ### [Lazer Lab](https://lazerlab.net/)
 
