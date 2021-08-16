@@ -8,10 +8,10 @@ As people and companies go about their business, they are leaving a treasure tro
 
 ### Publications
 
-Mattsson, C. E. S., & Takes, F. W. (2021). Trajectories through temporal networks. Applied Network Science, 6(1), 1–31. [https://doi.org/10.1007/s41109-021-00374-7](https://doi.org/10.1007/s41109-021-00374-7) "|" [Paper (pdf)](/assets/files/Mattsson and Takes - 2021 - Trajectories through temporal networks.pdf)
+Mattsson, C. E. S., & Takes, F. W. (2021). Trajectories through temporal networks. Applied Network Science, 6(1), 1–31. [https://doi.org/10.1007/s41109-021-00374-7](https://doi.org/10.1007/s41109-021-00374-7) \| [Paper (pdf)](/assets/files/Mattsson and Takes - 2021 - Trajectories through temporal networks.pdf)
 
 
-Mattsson, C. E. S., Takes, F. W., Heemskerk, E. M., Diks, C., Buiten, G., Faber, A., & Sloot, P. M. A. (2021). Functional Structure in Production Networks. Frontiers in Big Data, 4. [https://doi.org/10.3389/fdata.2021.666712](https://doi.org/10.3389/fdata.2021.666712) "|" [Paper (pdf)](/assets/files/Mattsson et al. - 2021 - Functional Structure in Production Networks.pdf) "|" [Slides (pdf)](/assets/files/Mattsson_Networks2021_slides.pdf) "|" [Networks 2021 Winning Pitch Talk (mov)](/assets/files/Mattsson_Networks2021_pitch.mov)
+Mattsson, C. E. S., Takes, F. W., Heemskerk, E. M., Diks, C., Buiten, G., Faber, A., & Sloot, P. M. A. (2021). Functional Structure in Production Networks. Frontiers in Big Data, 4. [https://doi.org/10.3389/fdata.2021.666712](https://doi.org/10.3389/fdata.2021.666712) \| [Paper (pdf)](/assets/files/Mattsson et al. - 2021 - Functional Structure in Production Networks.pdf) \| [Slides (pdf)](/assets/files/Mattsson_Networks2021_slides.pdf) \| [Networks 2021 Winning Pitch Talk (mov)](/assets/files/Mattsson_Networks2021_pitch.mov)
 
 ### Preprints
 
