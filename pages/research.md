@@ -4,8 +4,10 @@ layout: default
 ---
 # Research
 
+Taking the perspective that economies emerge out of many millions of transactions lets me ask compelling empirical and theoretical research questions. Most of my work follows from and contributes to this idea. I have also particpated in various projects as a part of various institutions. 
+
 ### Real-world walk processes & transaction data
-People and companies leave a trail of transactions behind them as they go about their business. This means there is a treasure trove of data about the real economy sitting on the servers of payment processing institutions, worldwide. Taking the pserpective that the economy as a whole comes together out of many millions of transactions lets me ask compelling empirical and theoretical research questions. I have also participated in various other projects as a part of various research groups.
+People and companies leave a trail of transactions behind them as they go about their business. This means there is a treasure trove of data about the real economy sitting on the servers of payment processing institutions, worldwide. On the applied side, I develop methods and tools that facilitate the analysis of such datasets. On the theoretical side, currency systems are a compelling example with which to advance a theory of real-world walk process on networks. 
 
 Mattsson, C. E. S., Criscione, T., & Takes, F. W. (2023). Circulation of a digital community currency. Scientific Reports, 13, Article number: 5864. [DOI: 10.1038/s41598-023-33184-1](https://doi.org/10.1038/s41598-023-33184-1)
 
