@@ -2,6 +2,7 @@
 title: Research
 layout: default
 ---
+# Research
 
 ### Real-world walk processes & transaction data
 People and companies leave a trail of transactions behind them as they go about their business. This means there is a treasure trove of data about the real economy sitting on the servers of payment processing institutions, worldwide. Taking the pserpective that the economy as a whole comes together out of many millions of transactions lets me ask compelling empirical and theoretical research questions. I have also participated in various other projects as a part of various research groups.
