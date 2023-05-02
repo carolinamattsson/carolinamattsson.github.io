@@ -18,4 +18,4 @@ Lehigh University
 
 ### Materials
 
-[Download CV (pdf)](/assets/files/Mattsson_CV.pdf)
+[Download CV (pdf)](/assets/files/Mattsson_CV_2023-05-01.pdf)
