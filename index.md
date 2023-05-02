@@ -9,13 +9,13 @@ I am a network scientist developing the theory, data, and tools that we need to 
 
 ### Affiliations
 
-Researcher, CENTAI Institute (2023-)
+Researcher, CENTAI Institute (2023-)      
 
-Guest, Computational Network Science (2022-)\\
-Postdoc, Computational Network Science (2020-2022)
+Guest, Computational Network Science (2022-)      
+Postdoc, Computational Network Science (2020-2022)      
 LIACS, Leiden University
 
-Doctoral student, Lazer Lab (2014-2020)
+Doctoral student, Lazer Lab (2014-2020)      
 Network Science Institute, Northeastern University
 
 ### Education
