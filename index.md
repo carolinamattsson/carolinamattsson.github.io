@@ -5,7 +5,18 @@ layout: default
 
 # Hello!
 
-I am a network scientist developing the analysis tools and modelling frameworks we need to study the economy as a complex system. Currently I work as a postdoc with the Computational Network Science lab within LIACS at Leiden University, where I study the structure of production networks, real-world transaction data from payment systems, and temporal network representations. Aspects of my research are explicitly policy- or industry- facing, having participated in projects with the Dutch Ministry of Economics and Climate, Statistics Netherlands, Microfinance Opportunities, the IFC (World Bank), and Telenor Research. Back in May 2020, I became one of the first to graduate from the innovative Network Science PhD program out of the Network Science Institute at Northeastern University. I have been an NSF Graduate Research Fellow, an NSF INTERN, and a member of the Lazer Lab advancing methods in computational social science.
+I am a network scientist developing the data, theory, and tools we need to study the economy as a complex system. Currently I work as a Researcher at CENTAI Institute in Turin, Italy. My published works include papers on transaction data from payment systems, the structure of production networks, and temporal network representations. Aspects of my research are explicitly policy- or industry- facing, having participated in projects with the Dutch Ministry of Economics and Climate, Statistics Netherlands, Microfinance Opportunities, the IFC (World Bank), and Telenor Research. My research has been funded via the NSF Graduate Research Fellowship, the NSF INTERN program, as well as grants by the World Bank and the Gates Foundation.
+
+### Affiliations
+
+Researcher, CENTAI Institute (2023-)
+
+Guest, Computational Network Science (2022-)
+Postdoc, Computational Network Science (2020-2022)
+LIACS, Leiden University
+
+Doctoral student, Lazer Lab (2014-2020)
+Network Science Institute, Northeastern University
 
 ### Education
 

@@ -1,6 +1,6 @@
 title: "Carolina Mattsson"
 image: /assets/img/carolina-website.jpg
-description: "Postdoc in Network Science"
+description: "Researcher in Network Science"
 theme: jekyll-theme-minimal
 pagelist:
   -
@@ -12,6 +12,6 @@ pagelist:
   -
     title: Teaching
     url: pages/teaching.html
-email: "mailto:e.s.c.mattsson@liacs.leidenuniv.nl"
+email: "mailto:carolina.mattsson@centai.eu"
 paper: /assets/files/Mattsson_JMP.pdf
-cv: /assets/files/Mattsson_CV.pdf
+cv: /assets/files/Mattsson_CV_2023-05-01.pdf
