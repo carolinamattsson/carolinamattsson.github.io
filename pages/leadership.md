@@ -7,7 +7,7 @@ layout: default
 
 There is a budding research community at the intersection of network science, complexity economics, and computational social science. I believe there is tremendous scientific promise in this space, and that we can accelerate progress by inviting others to join in the fun.
 
-### [Workshop on Economic and Financial Networks](https://sites.google.com/view/fineconets-netscix2020)
+### [Workshop on Economic and Financial Networks](https://sites.google.com/view/fineconets-netsci2023)
 This recurring workshop brings together researchers active in stuyding economic and financial networks from across disciplines and areas of the world to discuss state-of-the-art work, share practical knowledge, and create opportunities for novel and fruitful collaborations. I have been a member of the organizing team at the following editions:
 * 2023 CCS (Salvador da Bahia)          
 * 2023 NetSci (Vienna)          
