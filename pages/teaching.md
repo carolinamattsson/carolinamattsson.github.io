@@ -4,6 +4,10 @@ layout: default
 ---
 # Teaching
 
+### FIS0186 | Complexity Economics | University of Torino
+
+Guest lecturer for Lecture 7: Financial Networks 
+
 ### LISS238 | Social Network Analysis | London Interdisciplinary Social Science Doctoral Training Partnership
 
 This short, intensive course teaches the core concepts of social network analysis. Teaching includes lectures and hands-on tutorials in Gephi.
@@ -12,8 +16,6 @@ This short, intensive course teaches the core concepts of social network analysi
 ### DS2001 | Programming with Data | Social Science Practicum
 This undergraduate course teaches hands-on programming skills using applied examples drawn from the social sciences. Students also read and discuss how data science is impacting society, developing an intuition for computational social science. Enrolment targets students with little or no programming experience. The majority of those enrolled are economics majors.
 
-Meetings: Wednesdays, 9:50am - 11:30am, West Village H 212  
-Office Hours: Tuesdays, 9:30am – 11:30am, West Village H 164  
 Course website: [https://carolinamattsson.github.io/ds2001](https://carolinamattsson.github.io/ds2001)  
 
 [Download Syllabus (pdf)](/assets/files/Mattsson_DS2001.pdf)

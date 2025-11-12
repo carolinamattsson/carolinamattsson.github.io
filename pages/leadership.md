@@ -5,10 +5,14 @@ layout: default
 
 # Leadership
 
-There is a budding research community at the intersection of network science, complexity economics, and computational social science. I believe there is tremendous scientific promise in this space, and that we can accelerate progress by inviting others to join in the fun.
+There is a budding research community at the intersection of network science, complexity economics, and computational social science. I believe there is tremendous scientific promise in this space, and that we can accelerate progress by supporting young researchers.
 
-### [Workshop on Economic and Financial Networks](https://sites.google.com/view/fineconets-netsci2023)
+### [Workshop on Economic and Financial Networks](https://sites.google.com/view/fineconets)
 This recurring workshop brings together researchers active in stuyding economic and financial networks from across disciplines and areas of the world to discuss state-of-the-art work, share practical knowledge, and create opportunities for novel and fruitful collaborations. I have been a member of the organizing team at the following editions:
+* 2025 StatPhys (Rome)          
+* 2025 NetSci (Maastricht)          
+* 2024 CCS (Exeter)          
+* 2024 NetSci (Quebéc)          
 * 2023 CCS (Salvador da Bahia)          
 * 2023 NetSci (Vienna)          
 * 2022 CCS (Mallorca)            
