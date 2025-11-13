@@ -11,7 +11,6 @@ There is a budding research community at the intersection of network science, co
 This recurring workshop brings together researchers active in stuyding economic and financial networks from across disciplines and areas of the world to discuss state-of-the-art work, share practical knowledge, and create opportunities for novel and fruitful collaborations. I have been a member of the organizing team at the following editions:
 * 2025 StatPhys (Rome)          
 * 2025 NetSci (Maastricht)          
-* 2024 CCS (Exeter)          
 * 2024 NetSci (Quebéc)          
 * 2023 CCS (Salvador da Bahia)          
 * 2023 NetSci (Vienna)          
