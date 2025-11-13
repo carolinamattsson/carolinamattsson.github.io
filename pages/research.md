@@ -39,12 +39,12 @@ Moroni, C., Borile, C., Mattsson, C, Starnini, M., Panisson, A. (2025) Multi-Cla
 
 The Leiden Computational Network Science Lab (CNS Lab) is a research group working on methods for knowledge discovery from real-world network data. We develop methods and algorithms to unveil patterns in dynamic complex networks from a range of application domains, including (online) social networks, scientific collaboration networks and economic networks. The CNS Lab is lead by Frank Takes and affiliated with the Theory and Data Science clusters of the Department of Computer Science (LIACS) of Leiden University.
 
-Dieles, T., Mattsson, C., Takes, F. W. (2024) Identifying successful teams in the European player transfer network. Applied Network Science 9:65. [DOI: 10.1007/s41109-024-00675-7](https://doi.org/10.1007/s41109-024-00675-7)
+Dieles, T., Mattsson, C., Takes, F. W. (2024) Identifying successful teams in the European player transfer network. Applied Network Science 9:65. [Open Access](https://doi.org/10.1007/s41109-024-00675-7)
 
-McNeil, M., Mattsson, C., Takes, F. W., & Bogdanov, P. (2023). CADENCE: Community-Aware Detection of Dynamic Network States. In Proceedings of the 2023 SIAM International Conference on Data Mining (SDM) (pp. 1–9). Society for Industrial and Applied Mathematics. [DOI: 10.1137/1.9781611977653.ch1](https://doi.org/10.1137/1.9781611977653.ch1)
+McNeil, M., Mattsson, C., Takes, F. W., & Bogdanov, P. (2023). CADENCE: Community-Aware Detection of Dynamic Network States. In Proceedings of the 2023 SIAM International Conference on Data Mining (SDM) (pp. 1–9). Society for Industrial and Applied Mathematics. [Open Access](https://doi.org/10.1137/1.9781611977653.ch1)
 
 ### [Lazer Lab](https://lazerlab.net/)
 
 The Lazer Lab advances methods in computational social science. I have contributed to several projects that aim to make digital trace and administrative data more useful to researchers.
 
-Lazer, D., Baum, M., Grinberg, N., Friedland, L., Joseph, K., Hobbs, W., & Mattsson, C. (2017). Combating fake news: An agenda for research and action (United States of America) [Report](https://apo.org.au/node/76233)
+Lazer, D., Baum, M., Grinberg, N., Friedland, L., Joseph, K., Hobbs, W., & Mattsson, C. (2017). Combating fake news: An agenda for research and action (Shorenstein Center on Media, Politics and Public Policy, Harvard Kennedy School, Cambridge, MA) [Public Report](https://apo.org.au/node/76233)
