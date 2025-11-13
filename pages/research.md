@@ -33,7 +33,7 @@ Buiten, G., Diks, C., Faber, A., Heemskerk, E., Mattsson, C., Takes, F., & Sloot
 
 CENTAI is a newly established research institute located in Turin, Italy. The ambition of CENTAI is to push the boundaries of applied and foundational research in domains related to Artificial Intelligence and Complex System sciences.
 
-Moroni, C., Borile, C., Mattsson, C, Starnini, M., Panisson, A. (2025) Multi-Class and Multi-Task Strategies for Neural Directed Link Prediction. Machine Learning and Knowledge Discovery in Databases, European Conference. [ECMLPKDD](https://link.springer.com/chapter/10.1007/978-3-662-72243-5_8) \| [Paper (pdf)](/assets/files/Moroni%20et%20al.%20-%202026%20-%20Multi-class%20and Multi-task%20Strategies%20for Neural%20Directed%20Link%20Prediction.pdf)
+Moroni, C., Borile, C., Mattsson, C, Starnini, M., Panisson, A. (2025) Multi-Class and Multi-Task Strategies for Neural Directed Link Prediction. Machine Learning and Knowledge Discovery in Databases, European Conference. [ECML PKDD 2025](https://link.springer.com/chapter/10.1007/978-3-662-72243-5_8) \| [Paper (pdf)](/assets/files/Moroni%20et%20al.%20-%202026%20-%20Multi-class%20and Multi-task%20Strategies%20for Neural%20Directed%20Link%20Prediction.pdf)
 
 ### [Computational Network Science Lab](https://www.computationalnetworkscience.org/)
 
