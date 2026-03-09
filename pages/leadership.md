@@ -18,9 +18,10 @@ This recurring workshop brings together researchers active in stuyding economic 
 * 2020 NetSci-X (Tokyo)           
 * 2019 NetSci (Burlington)        
 
+### For junior researchers
 
-### [INET YSI Complexity Economics Working Group](https://ysd.ineteconomics.org/workinggroup/complexity-economics)
+#### [INET YSI Complexity Economics Working Group](https://ysi.ineteconomics.org/)
 Economies and societies are complex and evolving systems. The Complexity Economics Working Group provides a platform for students and early stage researchers to learn and discuss methodology and insights from complexity economics and related fields.
 
-### [Society for Young Network Scientists](https://twitter.com/official_SYNS)
-SYNS is a society of young network scientists, whether by age or experience. If you're an undergrad, master's, PhD, postdoc, or just a researcher new to Network Science, join us. You belong here.
+#### [NetPlace](https://netplace.site/) (formerly SYNS)
+NetPlace is a community for early-career network scientists, whether by age or experience. If you're an undergrad, master's, PhD, postdoc, or just a researcher new to Network Science, join us. You belong here.
