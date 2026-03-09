@@ -5,4 +5,8 @@ layout: default
 
 # Hello!
 
-I am a network scientist developing the theory, data, and tools that we need to study the economy as a complex system. Currently I work as a Researcher at CENTAI in Turin, Italy. I have published papers on transaction data from payment systems, the structure of production networks, and temporal network representations. Aspects of my research are explicitly policy- or industry- facing, having participated in projects with the Dutch Ministry of Economics and Climate, Statistics Netherlands, Microfinance Opportunities, the IFC, and Telenor Research. My research has been funded via the NSF Graduate Research Fellowship, the NSF INTERN program, and the Bill & Melinda Gates Foundation.
+I study how money moves through the economy. My work spans from the physics of individual financial transactions to the measurement and structure of entire payment systems. I write the papers that bridge this gap -- interweaving network science, temporal data analysis, economics, and physics to build a scientific understanding of money in motion.
+
+Currently I work as a Data & AI Researcher at Intesa Sanpaolo in Turin, Italy, where I lead projects on the physics of financial transactions and the propagation of economic shocks over real inter-firm networks. My published work covers transaction data from digital payment systems, the structure of production networks, and temporal network methods.
+
+My research is often directly policy- or industry-facing, through collaborations with the Central Bank of Brazil, the Dutch Ministry of Economic Affairs and Climate, Statistics Netherlands, Grassroots Economics, ING Bank, the International Finance Corporation (World Bank Group), Microfinance Opportunities, Cignifi, and Telenor Research. My research has been funded via the NSF Graduate Research Fellowship, the NSF INTERN program, and the Bill & Melinda Gates Foundation.
