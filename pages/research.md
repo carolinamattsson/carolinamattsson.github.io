@@ -11,17 +11,17 @@ People and companies leave a trail of transactions behind them as they go about 
 
 Mattsson, C., Cellerini, C., Ojer, J., & Starnini, M. (preprint). Modeling financial transactions via random walks on temporal networks. [arXiv:2602.20713](https://arxiv.org/abs/2602.20713) \| [Code](https://github.com/carolinamattsson/transactions)
 
-Mattsson, C. E. S., Criscione, T., & Takes, F. W. (2023). Circulation of a digital community currency. Scientific Reports, 13, Article number: 5864. [DOI: 10.1038/s41598-023-33184-1](https://doi.org/10.1038/s41598-023-33184-1)
+Mattsson, C. E. S., Luedtke, A., & Takes, F. W. (Job Market Paper). Holding periods: Inverse estimation of money velocity. [arXiv:2209.01512](https://doi.org/10.48550/arXiv.2209.01512) \| [Working Paper (pdf)](/assets/files/Mattsson_JMP.pdf)
 
-Mattsson, C. E. S., Criscione, T., & Ruddick, W. O. (2022). Sarafu Community Inclusion Currency 2020-2021. Scientific Data, 9(426). [DOI: 10.1038/s41597-022-01539-4](https://doi.org/10.1038/s41597-022-01539-4)
+Mattsson, C. E. S., Criscione, T., & Takes, F. W. (2023). Circulation of a digital community currency. Scientific Reports, 13, Article number: 5864. [Open Access](https://doi.org/10.1038/s41598-023-33184-1)
 
 Mattsson, C. E. S., & Takes, F. W. (2021). Trajectories through temporal networks. Applied Network Science, 6(1), 1–31. [DOI: 10.1007/s41109-021-00374-7](https://doi.org/10.1007/s41109-021-00374-7) \| [Paper (pdf)](/assets/files/Mattsson and Takes - 2021 - Trajectories through temporal networks.pdf) \| [Code](https://github.com/carolinamattsson/follow-the-money)
 
-Mattsson, C. (preprint). Networks of monetary flow at native resolution. ArXiv:1910.05596 [Physics, q-Fin]. [arxiv:1910.05596](http://arxiv.org/abs/1910.05596) [Download (pdf)](/assets/files/Mattsson - 2019 - Networks of monetary flow at native resolution.pdf)
+Mattsson, C. E. S., & Takes, F. W. (2021). Trajectories through temporal networks. Applied Network Science, 6(1), 1–31. [Open Access](https://doi.org/10.1007/s41109-021-00374-7) \| [Paper (pdf)](/assets/files/Mattsson and Takes - 2021 - Trajectories through temporal networks.pdf)
 
 Mattsson, C. E. S., Luedtke, A., & Takes, F. W. (preprint). Holding periods: Inverse estimation of money velocity. [arXiv:2209.01512](https://doi.org/10.48550/arXiv.2209.01512) \| [Code](https://github.com/carolinamattsson/transfer-velocity-of-money)
 
-### Structure of production networks
+### Firm-level production networks
 Companies are especially similar to their close competitors, not to their trading partners. This has practical implications for the analysis of production networks and give us precise terms for the local structural features that may be key to understanding their routine function, failure, and growth. It also places production networks into the same ''category'' of network as protein-protein interaction (PPI) networks, where our intutions from social networks can lead us astray.
 
 Mattsson, C. E. S., Takes, F. W., Heemskerk, E. M., Diks, C., Buiten, G., Faber, A., & Sloot, P. M. A. (2021). Functional Structure in Production Networks. Frontiers in Big Data, 4. [DOI: 10.3389/fdata.2021.666712](https://doi.org/10.3389/fdata.2021.666712) \| [Paper (pdf)](/assets/files/Mattsson et al. - 2021 - Functional Structure in Production Networks.pdf) \| [Code](https://github.com/carolinamattsson/local-connectivity-structure) \| [Slides (pdf)](/assets/files/Mattsson_Networks2021_slides.pdf) \| [Networks 2021 Winning Pitch Talk (mov)](/assets/files/Mattsson_Networks2021_pitch.mov)
